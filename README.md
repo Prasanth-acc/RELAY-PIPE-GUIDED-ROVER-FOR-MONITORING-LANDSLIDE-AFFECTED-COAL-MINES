@@ -37,7 +37,7 @@ way communication with trapped workers, allowing rescue teams to provide real-ti
  This feature is crucial in maintaining morale and gathering first-hand information about
  the situation.
  
- By integrating imaging systems, environmental sensors, and a robust, real-time
+ By integrating the BeagleY-AI board with environmental sensing, and a robust, real-time
  wired communication system, this project aims to offer a comprehensive solution
  for underground rescue operations. The developed rover will provide rescuers
  with invaluable insights, enabling them to make swift, informed decisions, thereby
