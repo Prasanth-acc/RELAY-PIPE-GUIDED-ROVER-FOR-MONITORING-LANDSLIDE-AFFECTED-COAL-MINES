@@ -15,7 +15,7 @@ of-the-art rover capable of navigating through a strategically drilled pipe to t
  reaching the trapped zone with precision. It is equipped with high-resolution cameras
  capable of capturing detailed images even in low-light conditions, along with advanced
  environmental sensors that measure critical parameters such as gas levels, temperature,
- and humidity. These sensors and cameras are vital for assessing the conditions within
+ and humidity. Central to the rover's functionality is the BeagleY-AI board, which serves as the onboard processing unit.These sensors and cameras are vital for assessing the conditions within
  the collapsed mine and detecting potential hazards that could endanger the lives of both
  the trapped workers and the rescue team.
  
